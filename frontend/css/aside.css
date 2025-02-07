@@ -24,7 +24,7 @@ aside {
 
 .aside__nav ul li a img {
   margin-right: 24px;
-  height: 20px;
+  border-radius: 50%;
 }
 
 hr {
